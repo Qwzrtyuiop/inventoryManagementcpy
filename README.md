@@ -67,7 +67,7 @@ It includes an integrated logging system that automatically records all item and
 ## Usage
 
 ### Login Page
-![Login Box](admin.png)  
+![Login Box](admin.PNG)  
 Default credentials:  
 - **Username:** admin  
 - **Password:** adminpass  
@@ -77,21 +77,21 @@ This system is for demonstration purposes only.
 
 ### Dashboard
 On successful login, the homepage will appear.  
-![Home](home.png)
+![Home](home.PNG)
 
 ### Example of Item Creation
 
 #### Creating a new category
-![Step 1](newcat.png)  
-![Step 2](newcat1.png)  
-![Step 3](newcat2.png)
+![Step 1](newcat.PNG)  
+![Step 2](newcat1.PNG)  
+![Step 3](newcat2.PNG)
 
 #### Adding new item
-![Step 1](newitem.png)  
-![Step 2](newitem2.png)
+![Step 1](newitem.PNG)  
+![Step 2](newitem2.PNG)
 
 #### Automatic logging
-![Log Example](log%20update.png)
+![Log Example](log%20update.PNG)
 
 ---
 
