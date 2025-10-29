@@ -83,8 +83,8 @@ On successful login, the homepage will appear.
 
 #### Creating a new category
 ![Step 1](newcat.PNG)  
-![Step 2](newcat1.PNG)  
-![Step 3](newcat2.PNG)
+![Step 2](newcat2.PNG)  
+![Step 3](newcat3.PNG)
 
 #### Adding new item
 ![Step 1](newitem.PNG)  
